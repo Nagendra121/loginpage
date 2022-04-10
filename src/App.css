@@ -1,0 +1,44 @@
+.form-label{
+    display: block;
+}
+
+.form_body{
+    display: flex;
+    justify-content: center;
+}
+.form_main{
+    border: 1px solid #000000;
+    padding: 20px;
+    margin-top: 20vh;
+    border-radius: 10px;
+    box-shadow: 5px 5px #ffa70f;
+  color:#ffa200;
+    
+}
+
+.navbar_container{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+  color:#ffa200 !important;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.button_holder{
+    display: flex;
+    justify-content: space-around;
+}
+#col{
+ background-color: aqua
+}
+body{
+  background-image:url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80');
+    background-repeat:no-repeat;
+  background-size:100%;
+}
